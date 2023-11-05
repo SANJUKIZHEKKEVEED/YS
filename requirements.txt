@@ -2,3 +2,4 @@ streamlit==1.28.0
 langchain==0.0.330
 openai>=0.25.0
 chromadb==0.3.29
+pypdf==3.16.4
